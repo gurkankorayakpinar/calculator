@@ -4,6 +4,6 @@
 
 ***
 
-- Arka arkaya operatörler kullanarak işlem yapmak mümkündür.
+- "Eşittir" butonu olmaksızın, sadece oparetör tuşları kullanılarak ardışık işlemler yapılabilir.
 
 - Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.
