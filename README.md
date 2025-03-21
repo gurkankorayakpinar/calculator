@@ -1,9 +1,9 @@
 # Hesap makinesi
 
-- Bu proje, temel işlemleri yapabilen bir hesap makinesi uygulamasıdır.
+- Bu projede, temel işlemleri yapabilen bir hesap makinesi tasarlanmıştır.
 
 ***
 
-- "Eşittir" butonu olmaksızın, sadece oparetör tuşları kullanılarak ardışık işlemler yapılabilir.
+- "Eşittir" butonu olmaksızın, sadece oparetör tuşları kullanılarak arka arkaya işlemler yapılabilir.
 
 - Mouse "sağ tık" ile menü açma özelliği devre dışı bırakılmıştır.
