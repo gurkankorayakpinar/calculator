@@ -1,6 +1,6 @@
 # Hesap makinesi
 
-- Bu projede, temel işlemleri yapabilen bir hesap makinesi tasarlanmıştır.
+- Bu uygulama, standart bir hesap makinesi projesidir.
 
 ***
 
